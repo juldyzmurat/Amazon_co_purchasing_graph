@@ -48,10 +48,11 @@ The following features were explored in this project:
 
 ## Results 
 From the graph networks and degree analyses, it was observed that a minority of nodes have very high degrees, making their resulting subgraph networks densely connected. Book titles with related themes create dense clusters, which predicts higher co-purchasing rate in the cluster of similar books. 
+![Co-purchasing network.]([https://github.com/juldyzmurat/USD-RUB-rate-amid-Russian-Ukrainian-war/blob/main/first%20place.png?raw=true](https://github.com/juldyzmurat/Amazon_co_purchasing_graph/blob/main/nw577_sr5000_titles.png?raw=true))
 
 ## Status 
 Project is: complete
-![First Place Winners of the National Student Data Corps Data Science Symposium.](https://github.com/juldyzmurat/USD-RUB-rate-amid-Russian-Ukrainian-war/blob/main/first%20place.png?raw=true)
+
 
 ## Contact 
 * zxu4@case.edu
